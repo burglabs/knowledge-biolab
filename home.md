@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# Somebodies Knowledge Base
+# BioLab Knowledge Base
 
 Hi there, welcome and nice to have you here! 👋
 
