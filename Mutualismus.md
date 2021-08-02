@@ -1,6 +1,3 @@
-![Datei:Ian Alexander
-Wechselwirkungen.png](Ian_Alexander_Wechselwirkungen.png "Datei:Ian Alexander Wechselwirkungen.png")
-
 ## Definition
 
 Mutualismus (von latein. mutuus ) ist die Bezeichnung für eine Form der

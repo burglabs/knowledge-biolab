@@ -1,4 +1,4 @@
-![Datei:Systems_Autopoiesis.jpeg](Systems_Autopoiesis.jpeg "Datei:Systems_Autopoiesis.jpeg")
+![Datei:Systems_Autopoiesis.jpeg]
 
 Herleitung des Begriffes: αυτοσ (= selbst) und ποιειν (= machen).
 Selbsterzeugung bzw. Selbsterhaltung. Das Gegenteil bilden
