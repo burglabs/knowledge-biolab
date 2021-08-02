@@ -1,3 +1,5 @@
+# **Ambient Assisted Living**
+
 Ambient Assisted Living (AAL) steht für intelligente Umgebungen, die
 sich selbstständig, unaufdringlich, proaktiv (also im Voraus wirkend)
 und situationsspezifisch den Bedürfnissen und Zielen des Benutzers
